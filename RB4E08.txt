@@ -1,0 +1,29 @@
+RB4E08
+Resident Evil 4
+
+Skip Nunchuk Splash Screen [Vague Rant]
+0416B260 38600001
+
+Skip All Splash Screens [Vague Rant]
+0416B088 38000001
+
+Force Lang ES
+0033b608 00000005
+
+Force Lang JAP
+0033b608 00000000
+
+Force Lang ENG
+0033b608 00000001
+
+Force Lang UK
+0033b608 00000002
+
+Force Lang DEU
+0033b608 00000003
+
+Force Lang FRA
+0033b608 00000004
+
+Force Lang ITA
+0033b608 00000006

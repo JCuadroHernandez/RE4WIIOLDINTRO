@@ -1,0 +1,8 @@
+RB4P08
+Resident Evil 4
+
+Skip Nunchuk Splash Screen [Vague Rant]
+0416B094 38600001
+
+Skip All Splash Screens [Vague Rant]
+0416AEBC 38000001
